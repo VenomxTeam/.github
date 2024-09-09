@@ -1,19 +1,99 @@
-<h1 align="center">Hi 👋, I'm Venom</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hello there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venomxteam&label=Profile%20views&color=0e75b6&style=flat" alt="venomxteam" /> </p>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=VenomxTeam.VenomxTeam)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venomxteam" alt="venomxteam" /></a> </p>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+class SoftwareEngineer:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venomxteam&show_icons=true&locale=en&layout=compact" alt="venomxteam" /></p>
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venomxteam&show_icons=true&locale=en" alt="venomxteam" /></p>
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venomxteam&" alt="venomxteam" /></p>
+
+me = SoftwareEngineer()
+me.say_hi()
+```
+
+## 📝 Blogs
+
+- Personal website and blog: https://VenomxTeam.github.io/
+- Notes of AWS Solution Architecture - Associate: https://VenomxTeam.github.io/aws-certs-cheatsheet/
+- [WIP] LeetCode Solutions & Notes: https://VenomxTeam.github.io/leetcode/
+
+### 📔 Latest Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Java Concurrent Programming 1 - Fundamentals](https://VenomxTeam.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
+- [Introduction to Dependency Injection in Java](https://VenomxTeam.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
+- [Distributed Transactions and Sagas in Microservices](https://VenomxTeam.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
+- [Design Patterns: Strategy Pattern](https://VenomxTeam.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
+- [Java Best Practices - Logging](https://VenomxTeam.github.io/blog/2022/05/03/java-best-practices-logging.html)
+<!-- BLOG-POST-LIST:END -->
+
+## 🔧 Technologies & Tools
+
+**Cloud Services:**
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![Bedrock](https://img.shields.io/badge/AI-Bedrock-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![SageMaker](https://img.shields.io/badge/ML-SageMaker-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
+![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=6aa6f8)
+![DynamoDB](https://img.shields.io/badge/Database-DynamoDB-informational?style=flat&logo=amazon-dynamodb&logoColor=white&color=6aa6f8)
+![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=6aa6f8)
+![ECS Fargate](https://img.shields.io/badge/Container-ECS_Fargate-informational?style=flat&logo=amazon-ecs&logoColor=white&color=6aa6f8)
+![SQS](https://img.shields.io/badge/Queue-SQS-informational?style=flat&logo=amazon-sqs&logoColor=white&color=6aa6f8)
+![SNS](https://img.shields.io/badge/Pub/Sub-SNS-informational?style=flat&logo=amazon-sns&logoColor=white&color=6aa6f8)
+![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=6aa6f8)
+![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=6aa6f8)
+![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=6aa6f8)
+![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-informational?style=flat&logo=amazon-cloudwatch&logoColor=white&color=6aa6f8)
+![X-Ray](https://img.shields.io/badge/Tracing-X--Ray-informational?style=flat&logo=amazon-xray&logoColor=white&color=6aa6f8)
+
+**Programming Languages:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
+
+**Tools and Services:**
+
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+
+<!-- ## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/VenomxTeam/VenomxTeam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenomxTeam&hide=c%2B%2B,c,matlab,assembly&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a>
+
+<a href="https://github.com/VenomxTeam/VenomxTeam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VenomxTeam&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
+</a> -->
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=VenomxTeam&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🗂️ Highlight Projects
+
+<a href="https://github.com/VenomxTeam/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VenomxTeam&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/VenomxTeam/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VenomxTeam&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+<!-- ## 👨‍💻 This week, I spent my time on:
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
