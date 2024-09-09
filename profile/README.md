@@ -26,18 +26,6 @@ me.say_hi()
 ## 📝 Blogs
 
 - Personal website and blog: https://VenomxTeam.github.io/
-- Notes of AWS Solution Architecture - Associate: https://VenomxTeam.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://VenomxTeam.github.io/leetcode/
-
-### 📔 Latest Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Java Concurrent Programming 1 - Fundamentals](https://VenomxTeam.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
-- [Introduction to Dependency Injection in Java](https://VenomxTeam.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
-- [Distributed Transactions and Sagas in Microservices](https://VenomxTeam.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
-- [Design Patterns: Strategy Pattern](https://VenomxTeam.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
-- [Java Best Practices - Logging](https://VenomxTeam.github.io/blog/2022/05/03/java-best-practices-logging.html)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
 
